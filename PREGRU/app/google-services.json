@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744490821152",
+    "firebase_url": "https://firestoredatabase-eeb88-default-rtdb.firebaseio.com",
+    "project_id": "firestoredatabase-eeb88",
+    "storage_bucket": "firestoredatabase-eeb88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744490821152:android:b65edb40c68cf164c0fe45",
+        "android_client_info": {
+          "package_name": "com.example.pregru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744490821152-d96bhnkebnai15k1t3ip2vk9vvt0ndkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByW-bl9RFYrv0B_iV4_Pri4ZCwuI3BxXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744490821152-d96bhnkebnai15k1t3ip2vk9vvt0ndkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
